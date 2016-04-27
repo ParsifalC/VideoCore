@@ -37,7 +37,7 @@ CHECKOUT OPTIONS:
     :commit: 2cfe1129de430e4b23e811c5e0800989283af224
     :git: https://github.com/maxcampolo/glm.git
   VideoCore:
-    :commit: 0f60db394cccbd550ba0124fde94db775afa574d
+    :commit: f82e6ff29d6f1de7c5629fce402edb217c30d00a
     :git: https://github.com/mingweizhang/VideoCore.git
 
 SPEC CHECKSUMS:
