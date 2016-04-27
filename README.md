@@ -148,3 +148,6 @@ videocore::Apple::StreamSession : videocore::IStreamSession
 * 0.1.0 
 	* Initial CocoaPods version
 
+
+##Reference
+Thx to [BeautyFilterAuthor](https://github.com/runner365/LiveVideoCoreSDK "BeautyFilter").
