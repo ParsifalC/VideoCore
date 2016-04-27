@@ -9,6 +9,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'SampleBroadcaster' do
 pod 'glm', :git => 'https://github.com/maxcampolo/glm.git'
 #pod 'VideoCore', path: '../..'
-pod 'VideoCore/Swift', :git => 'https://github.com/maxcampolo/VideoCore.git', :branch => 'update_headers'
+pod 'VideoCore/Swift', :git => 'https://github.com/mingweizhang/VideoCore.git', :branch => 'update_headers'
 end
 

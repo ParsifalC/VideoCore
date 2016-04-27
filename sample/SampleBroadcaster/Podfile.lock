@@ -23,22 +23,22 @@ PODS:
 
 DEPENDENCIES:
   - glm (from `https://github.com/maxcampolo/glm.git`)
-  - VideoCore/Swift (from `https://github.com/maxcampolo/VideoCore.git`, branch `update_headers`)
+  - VideoCore/Swift (from `https://github.com/mingweizhang/VideoCore.git`, branch `update_headers`)
 
 EXTERNAL SOURCES:
   glm:
     :git: https://github.com/maxcampolo/glm.git
   VideoCore:
     :branch: update_headers
-    :git: https://github.com/maxcampolo/VideoCore.git
+    :git: https://github.com/mingweizhang/VideoCore.git
 
 CHECKOUT OPTIONS:
   glm:
     :commit: 2cfe1129de430e4b23e811c5e0800989283af224
     :git: https://github.com/maxcampolo/glm.git
   VideoCore:
-    :commit: 44d54cc477fc1aee3c9b498363d1b2937e97d69b
-    :git: https://github.com/maxcampolo/VideoCore.git
+    :commit: 0f60db394cccbd550ba0124fde94db775afa574d
+    :git: https://github.com/mingweizhang/VideoCore.git
 
 SPEC CHECKSUMS:
   boost: 6c5c8d8daef26ac83c1e1c00ad14de62b80161d7
@@ -46,6 +46,6 @@ SPEC CHECKSUMS:
   UriParser-cpp: cbbe00080ee432ec4833dca863a7fc83adc9b01a
   VideoCore: 5d8ea99d900089ee016bb87485912b0286e07650
 
-PODFILE CHECKSUM: 8ccab34f1d27febc3698ea29e9970d5f6f91e18f
+PODFILE CHECKSUM: b4d587cddaa9cdeeab3421beadb80479d57612d7
 
 COCOAPODS: 1.0.0.beta.8
