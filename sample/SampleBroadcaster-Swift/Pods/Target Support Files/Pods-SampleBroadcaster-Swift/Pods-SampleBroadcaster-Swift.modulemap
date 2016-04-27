@@ -1,0 +1,6 @@
+framework module Pods_SampleBroadcaster_Swift {
+  umbrella header "Pods-SampleBroadcaster-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

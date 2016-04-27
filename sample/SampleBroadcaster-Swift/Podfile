@@ -6,8 +6,10 @@ source 'https://github.com/CocoaPods/Specs.git'
 # Once the pod has been released, use a version number here instead of a path.
 #pod 'VideoCore', '~>0.3.2'
 #pod 'VideoCore', path: '../..'
+use_frameworks!
 
+target 'SampleBroadcaster-Swift' do
 pod 'glm', :git => 'https://github.com/maxcampolo/glm.git'
 pod 'VideoCore/Swift', :git => 'https://github.com/maxcampolo/VideoCore.git', :branch => 'update_headers'
+end
 
-use_frameworks!
